@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ship
+comment1.params=locateCells
+comment1.target=void\ setCellLocation(java.util.ArrayList)
+comment2.params=userShot
+comment2.target=void\ checkUserShot(java.lang.String)
+numComments=3

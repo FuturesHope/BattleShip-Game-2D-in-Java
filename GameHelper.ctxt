@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GameHelper
+comment1.params=prompt
+comment1.target=java.lang.String\ getUserInput(java.lang.String)
+comment2.params=
+comment2.target=java.util.ArrayList\ generateRandomShipLocation()
+numComments=3
