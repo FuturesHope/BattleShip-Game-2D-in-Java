@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Ship
+comment1.params=name
+comment1.target=void\ setName(java.lang.String)
+comment2.params=list
+comment2.target=void\ setLocationCells(java.util.ArrayList)
+comment3.params=
+comment3.target=java.util.ArrayList\ getLocationCells()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+numComments=5
